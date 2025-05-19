@@ -1,0 +1,18 @@
+{
+  "data" : {
+    "firstName": "firstname",
+    "lastName": "lastname",
+    "email": "abc@gmail.com",
+    "userTitle": "user",
+    "userType": "AU",
+    "effectiveDateAsString": "05/05/2025",
+    "expiryDateAsString": "31/12/2099",
+    "statusCd": "R",
+    "reidentifiable": true,
+    "createdBy": "xxx",
+    "createdDt": "05/05/2025",
+    "updateBy": "xxx",
+    "updateDt": "05/05/2025",
+    "adLogin": "asdas",
+  }
+}
