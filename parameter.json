@@ -1,17 +1,15 @@
 {
-    "data": {
-        "statuscode": "200",
-        "status": "success",
-        "paramList": {
-            "recordsFound": 1,
-            "registryType": "COM",
-            "results": [
-                {
-                    "paramId": 123,
-                    "paramDesc": "This is param description",
-                    "location": "/admin/parameter/xxxxx"
-                }
-            ]
-        }
+    "statuscode": "200",
+    "status": "success",
+    "paramList": {
+        "recordsFound": 1,
+        "registryType": "COM",
+        "results": [
+            {
+                "paramId": 123,
+                "paramDesc": "This is param description",
+                "location": "/admin/parameter/xxxxx"
+            }
+        ]
     }
 }
