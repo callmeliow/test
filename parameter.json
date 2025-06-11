@@ -6,9 +6,14 @@
         "registryType": "COM",
         "results": [
             {
-                "paramId": 123,
+                "paramId": 4001,
                 "paramDesc": "This is param description",
-                "location": "/admin/parameter/xxxxx"
+                "location": "/admin/parameter/common/edit-auditlog-param"
+            },
+            {
+                "paramId": 4002,
+                "paramDesc": "This is param description2",
+                "location": "/admin/parameter/common/edit-auditlog-param"
             }
         ]
     }
