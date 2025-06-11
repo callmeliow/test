@@ -1,0 +1,20 @@
+{
+  "statuscode": "200",
+  "status": "success",
+  "paramList": {
+    "results": [
+      {
+        "paramId": 123,
+        "paramDesc": "This is param description",
+        "paramValue": "This is param description",
+        "location": "/admin/parameter/xxxxx"
+      },
+      {
+        "paramId": 124,
+        "paramDesc": "This is param description2",
+        "paramValue": "This is param description2",
+        "location": "/admin/parameter/xxxxx"
+      }
+    ]
+  }
+}
